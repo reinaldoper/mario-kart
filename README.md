@@ -18,13 +18,17 @@ npm run start
 ```
 
 📌 Regras
-    - 5 rodadas por corrida
-    - Cada rodada possui uma pista: reta, curva ou confronto
-    - Mario e Bowser competem com atributos distintos
-    - Um dado é rolado em cada rodada para cada personagem
-    - Vence quem tiver mais pontos ao final
+
+- 5 rodadas por corrida
+- Cada rodada possui uma pista: reta, curva ou confronto
+- Mario e Bowser competem com atributos distintos
+- Um dado é rolado em cada rodada para cada personagem
+- Vence quem tiver mais pontos ao final
+
 🛠️ Tecnologias
-    - readline-sync
-    - Programação funcional com módulos JavaScript
+
+- readline-sync
+- Programação funcional com módulos JavaScript
+
 🤖 Autor
 Projeto gerado por Reinaldo ✨
